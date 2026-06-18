@@ -43,7 +43,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-10 border-t border-mg-border pt-6 text-center text-xs text-white/35">
-          © 2026 MG Auto Việt Nam. All Rights Reserved.
+          © 2026 MG Bình Dương. All Rights Reserved.
         </div>
       </div>
     </footer>

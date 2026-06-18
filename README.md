@@ -1,6 +1,6 @@
-# MG Auto Việt Nam
+# MG Bình Dương
 
-Landing page React + Vite cho đại lý MG Auto Việt Nam, lấy cảm hứng từ [mg-auto-insight.lovable.app](https://mg-auto-insight.lovable.app/).
+Landing page React + Vite cho đại lý MG Bình Dương, lấy cảm hứng từ [mg-auto-insight.lovable.app](https://mg-auto-insight.lovable.app/).
 
 ## Công nghệ
 
