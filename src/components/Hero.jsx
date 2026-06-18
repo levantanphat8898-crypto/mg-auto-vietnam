@@ -1,5 +1,5 @@
 const HERO_IMAGE =
-  './src/assets/images/hero.jpg'
+  './images/hero.jpg'
 
 export default function Hero() {
   return (
