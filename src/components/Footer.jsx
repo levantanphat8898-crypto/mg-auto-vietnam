@@ -5,7 +5,7 @@ export default function Footer() {
         <div className="grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
           <div>
             <p className="text-xl font-extrabold tracking-tight text-white">
-              MG<span className="text-mg-red">AUTO</span> VIỆT NAM
+              MG Bình Dương
             </p>
             <p className="mt-3 text-sm leading-relaxed text-white/50">
               Đại lý ủy quyền chính hãng MG tại khu vực TP. Hồ Chí Minh — Bình Dương.

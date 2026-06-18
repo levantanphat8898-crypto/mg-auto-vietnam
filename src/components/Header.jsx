@@ -15,10 +15,10 @@ export default function Header() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <a href="#" className="flex items-center gap-2">
           <span className="text-xl font-extrabold tracking-tight text-white">
-            MG<span className="text-mg-red">AUTO</span>
+            MG
           </span>
           <span className="hidden text-xs font-medium uppercase tracking-widest text-white/50 sm:inline">
-            Việt Nam
+            Bình Dương
           </span>
         </a>
 
