@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { cars } from '../data/cars'
 
-const RECIPIENT_EMAIL = 'levantanphat9c@gmail.com'
+const RECIPIENT_EMAIL = 'tlpanmgbd@gmail.com'
 
 export default function Contact() {
   const [submitted, setSubmitted] = useState(false)

@@ -1,5 +1,5 @@
 const HERO_IMAGE =
-  'https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?w=1920&q=80'
+  './src/assets/images/hero.jpg'
 
 export default function Hero() {
   return (

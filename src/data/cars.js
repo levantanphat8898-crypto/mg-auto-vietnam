@@ -4,7 +4,7 @@ export const cars = [
     name: 'MG5',
     tagline: 'Sedan thể thao',
     price: 'Từ 4xx triệu',
-    image: 'https://images.unsplash.com/photo-1619767886555-ef9f95ac8973?w=800&q=80',
+    image: './src/assets/images/mg5.jpg',
     features: [
       'Thiết kế trẻ trung, năng động',
       'Động cơ tiết kiệm nhiên liệu',
@@ -16,7 +16,7 @@ export const cars = [
     name: 'MG ZS',
     tagline: 'SUV đô thị',
     price: 'Từ 4xx triệu',
-    image: 'https://images.unsplash.com/photo-1519641471654-76cefd79f8c0?w=800&q=80',
+    image: './src/assets/images/mgzs.jpg',
     features: [
       'SUV bán chạy phân khúc B',
       'Cabin rộng rãi, tiện nghi',
@@ -28,7 +28,7 @@ export const cars = [
     name: 'MG HS',
     tagline: 'SUV cao cấp',
     price: 'Từ 5xx triệu',
-    image: 'https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80',
+    image: './src/assets/images/mghs.jpg',
     features: [
       'Nội thất sang trọng',
       'Công nghệ MG Pilot',
@@ -40,7 +40,7 @@ export const cars = [
     name: 'MG7',
     tagline: 'Fastback Coupe',
     price: 'Liên hệ',
-    image: 'https://images.unsplash.com/photo-1614200179396-2bdb77ebf81b?w=800&q=80',
+    image: './src/assets/images/mg7.jpg',
     features: [
       'Thiết kế coupe thể thao',
       'Màn hình kép cong hiện đại',
@@ -52,7 +52,7 @@ export const cars = [
     name: 'MG G50',
     tagline: 'MPV 7–8 chỗ',
     price: 'Liên hệ',
-    image: 'https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?w=800&q=80',
+    image: './src/assets/images/mg50.jpg',
     features: [
       'Cấu hình ghế linh hoạt',
       'Không gian rộng rãi',
